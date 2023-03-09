@@ -1,5 +1,8 @@
 const Screen = require("./screen");
 const Cursor = require("./cursor");
+// Fill out the static class in computer-player.js until tests are green.
+// Update ttt.js to allow you to play against the computer AI.
+// BONUS: Uncomment the bottom test in test/ttt-ai-spec.js and refine your AI until it can play 1000 games without losing.
 
 class TTT {
 
